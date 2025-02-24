@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a **3rd-year Computer Science Engineering student** pa
 - 🎓 **Pursuing:** BE in Computer Science Engineering  
 - 🔧 **Tech Skills:**  
   ![HTML](https://images.app.goo.gl/uxKuCm1ZW1avJRkx9)
-  ![CSS](https://www.pinterest.com/ideas/css-logo-design/925948065106/)
+  ![CSS](C:\Users\moham)
   ![C](https://images.app.goo.gl/U2Fb1o1S4tPqjaBC9)
   ![C++](https://images.app.goo.gl/6uZTTS5W3EWbbtDy6)
   ![Python](https://images.app.goo.gl/D17EHbczJRoEZfRe9)
