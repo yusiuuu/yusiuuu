@@ -1,56 +1,24 @@
-# 👋 Hi there, I'm Mohammed Yusuf!
+# 💫 About Me:
+I'm a passionate Full-Stack Developer who loves building intuitive, scalable web applications. From designing responsive frontends to developing robust backends, I enjoy working across the entire stack.<br><br>I also have hands-on experience with IoT and a growing interest in AI/ML, making me a quick learner and adaptable to different tech domains. I'm always eager to explore, collaborate, and turn ideas into impactful solutions.
 
-Welcome to my GitHub! I'm a **3rd-year Computer Science Engineering student** passionate about **creative problem-solving**, **software development**, and **exploring the boundaries of technology**. 🚀
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_yusiuuu_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedyusufy70) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohammedyusufy70@gmail.com) 
 
-## 🌟 About Me
-- 🎓 **Pursuing:** BE in Computer Science Engineering  
-- 🔧 **Tech Skills:**  
-  ![HTML](https://images.app.goo.gl/uxKuCm1ZW1avJRkx9)
-  ![CSS](https://i.pinimg.com/originals/fb/1e/7f/fb1e7f9db2540c3194a9179094a925e2.jpg)
-  ![C](https://images.app.goo.gl/U2Fb1o1S4tPqjaBC9)
-  ![C++](https://images.app.goo.gl/6uZTTS5W3EWbbtDy6)
-  ![Python](https://images.app.goo.gl/D17EHbczJRoEZfRe9)
-- 🧑‍🔬 **Current Projects:**
-  - **Fuzzing SumatraPDF:** Exploring buffer overflows, file parsing, and input handling.
-  - **Mini Projects for VTU:** Fraudulent message detection/fake news detection [Building innovative solutions while adhering to academic guidelines].
-- 🎮 **Career Goals:**  
-  - Software Developer 🌐  
-  - Data Analyst 🔍
-- 🎨 **Creative Side:** A love for combining logic and art to create unique projects.  
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yusiuuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=yusiuuu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yusiuuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=yusiuuu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=yusiuuu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Featured Repositories
-### 🔍 **Project 1: SumatraPDF Fuzzing**
-- 🧪 Analyzing vulnerabilities in SumatraPDF for buffer overflow scenarios.
-- 🔎 Focused on file parsing, command-line arguments, and input resilience.
-
-### 🌐 **Web Design Projects**
-- 🎨 Minimalist and responsive designs using HTML & CSS.
-- 💡 Focused on user-friendly interfaces.
-
----
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yusiuuu&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusiuuu&layout=compact&theme=radical&langs_count=5&hide=html,css)
-
----
-
-## 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-![Ghidra](https://img.shields.io/badge/Ghidra-FF9900?style=flat-square&logo=apache&logoColor=white)
-
----
-
-## 📫 Let's Connect!
-- **Email**: [mohammedyusufy70@gmail.com](mailto:mohammedyusufy70@gmail.com)
-- **Portfolio:** [Your Portfolio Link]  
-- **LinkedIn:** [yusiuuu](https://www.linkedin.com/in/mohammedyusufy70)
-
----
-
-✨ _"Coding is like painting—each line of code adds a stroke to the masterpiece."_  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
