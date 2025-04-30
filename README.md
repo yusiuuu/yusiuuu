@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm a passionate Full-Stack Developer who loves building intuitive, scalable web applications. From designing responsive frontends to developing robust backends, I enjoy working across the entire stack.<br><br>I also have hands-on experience with IoT and a growing interest in AI/ML, making me a quick learner and adaptable to different tech domains. I'm always eager to explore, collaborate, and turn ideas into impactful solutions.
 
 
